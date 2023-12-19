@@ -6,7 +6,10 @@ developer in Swift. One of my first
 projects is an app by Supreme,
 which I am a huge fan of.
 The application was written 
-in XCode version 14.2.
+in XCode version 14.2.<br>
+To find EFI, go to the Tags
+![291526622-b5b89cfe-ab18-4166-8006-53d20b5f8545](https://github.com/kosmit10/SwiftUI-Supreme-shop/assets/92518400/502218b4-3d80-4a90-b6b8-60336f32f97b)
+
 -----------------------
 
 # Possessed things like: <br><br> Login_screen
