@@ -1,13 +1,14 @@
 
 ![Supreme-logo-newyork](https://github.com/kosmit10/SwiftUI-Supreme-shop/assets/92518400/f7dd2022-5a24-400f-8f3e-7210f0e0363f)
 
-Hello, I'm a mobile application 
-developer in Swift. One of my first 
-projects is an app by Supreme,
-which I am a huge fan of.
-The application was written 
-in XCode version 14.2.<br>
-To find EFI, go to the Tags
+# Hello, I'm a mobile application 
+# developer in Swift. One of my first 
+# projects is an app by Supreme,
+# which I am a huge fan of.
+# The application was written 
+# in XCode version 14.2. <br><br><br>
+
+# To find EFI, go to the Tags
 ![291526622-b5b89cfe-ab18-4166-8006-53d20b5f8545](https://github.com/kosmit10/SwiftUI-Supreme-shop/assets/92518400/502218b4-3d80-4a90-b6b8-60336f32f97b)
 
 -----------------------
